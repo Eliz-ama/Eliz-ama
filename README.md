@@ -1,4 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+
           
 <h1 align="left">Hii, sou Elizama     <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-cosmic.png" height="50px "></h1>
 
@@ -18,13 +20,14 @@
           <br>
 
 
-
-
+<div align="left">
+  <a href="https://github.com/Eliz-ama">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eliz-ama&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+ 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliz-ama&layout=compact&langs_count=7&theme=tokyonight"/><br>
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianYuri&layout=compact&langs_count=7&theme=tokyonight"/><br>
   
-  
-<div align="esquerda">  
+<div align="direita">  
 
   ## :computer: Habilidades
 
@@ -44,8 +47,3 @@
 
 
 
-
-</a>
-
-  
-</div>
