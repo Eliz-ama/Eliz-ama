@@ -19,8 +19,7 @@
           <br>
 <div align="esquerda">
   <a href="https://github.com/Eliz-ama">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eliz-ama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliz-ama&layout=compact&langs_count=7&theme=tokyonight"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?eli-zama=anuraghazra&show_icons=true&theme=transparent)
             <br>
 <br>
       <a href="https://instagram.com/elifungirrl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
