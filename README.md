@@ -1,8 +1,8 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 
           
-<h1 align="left">Hii, sou Elizama     <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-cosmic.png" height="50px "></h1>
+<h1 align="left">Oi, sou Elizama <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-cosmic.png" height="50px ">< /h1>
 
 <div estilo="display:flex; largura:200px; justificar-conteúdo:espaço-entre;">
 
@@ -17,18 +17,18 @@
     <a href="https://www.cps.sp.gov.br/tag/fatec-registro/" target="_blank" rel="noopener noreferrer" ><img src="FATEC.png" height=" 145" align='right' /></a>
 <h2> FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre (Cursando)<h2>
           <br>
-<div align="left">
+<div align="esquerda">
   <a href="https://github.com/Eliz-ama">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eliz-ama&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Eliz-ama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliz-ama&layout=compact&langs_count=7&theme=tokyonight"/>
             <br>
 <br>
-      <a href="https://instagram.com/elifungirrl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:elizamanonatoizidoriozama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="http://linkedin.com/in/elizama-nonato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="https://instagram.com/elifungirrl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:elizamanonatoizidoriozama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+  <a href="http://linkedin.com/in/elizama-nonato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div align="direita">  
 <br>
- :computer: Habilidades
+ :computador: Habilidades
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -40,5 +40,3 @@
   
 </div>
 <br>
-
-
