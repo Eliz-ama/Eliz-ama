@@ -1,6 +1,3 @@
-
-
-
           
 <h1 align="left">Oi, sou Elizama <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-cosmic.png" height="50px "><h1>
 
@@ -21,11 +18,11 @@
   <a href="https://github.com/Eliz-ama">
 <br>
       <a href="https://instagram.com/elifungirrl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:elizamanonatoizidoriozama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+  <a href = "mailto:elizamanonatoizidoriozama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a> height="45"
   <a href="http://linkedin.com/in/elizama-nonato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div align="direita">  
 <br>
- :computador: Habilidades
+ Computador: Habilidades
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
