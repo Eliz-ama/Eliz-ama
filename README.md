@@ -1,4 +1,3 @@
-          
 <h1 align="left">Oi, sou Elizama <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-cosmic.png" height="50px "><h1>
 
 <div estilo="display:flex; largura:200px; justificar-conteúdo:espaço-entre;">
@@ -18,7 +17,7 @@
   <a href="https://github.com/Eliz-ama">
 <br>
       <a href="https://instagram.com/elifungirrl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:elizamanonatoizidoriozama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a> height="45"
+  <a href = "mailto:elizamanonatoizidoriozama@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank" height="45"></a> 
   <a href="http://linkedin.com/in/elizama-nonato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div align="direita">  
 <br>
