@@ -1,8 +1,7 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 
 
           
-<h1 align="left">Oi, sou Elizama <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-cosmic.png" height="50px ">< /h1>
 
 <div estilo="display:flex; largura:200px; justificar-conteúdo:espaço-entre;">
 
