@@ -12,7 +12,7 @@
 <br>
 </div>
     <a href="https://www.cps.sp.gov.br/tag/fatec-registro/" target="_blank" rel="noopener noreferrer" ><img src="FATEC.png" height=" 145" align='right' /></a>
-<h2> FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre (Cursando)<h2>
+<h2> FATEC - Desenvolvimento de Software Multiplataforma - 3° Semestre (Cursando)<h2>
           <br>
 <div align="esquerda">
   <a href="https://github.com/Eliz-ama">
