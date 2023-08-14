@@ -13,14 +13,13 @@
 </div>
     <a href="https://www.cps.sp.gov.br/tag/fatec-registro/" target="_blank" rel="noopener noreferrer" ><img src="FATEC.png" height=" 145" align='right' /></a>
 <h2> FATEC - Desenvolvimento de Software Multiplataforma - 4° Semestre (Cursando)<h2>
-          <br>
-        
+<br>
 <div align="esquerda">
   <a href="https://github.com/Eliz-ama">
 <br>
   <a href="https://github.com/Eliz-ama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliz-ama&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliz-ama&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliz-ama&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliz-ama&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
  <br>
       <a href="https://instagram.com/elifungirrl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank" height="25"></a>
