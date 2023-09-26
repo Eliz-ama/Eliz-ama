@@ -18,7 +18,7 @@
   <a href="https://github.com/Eliz-ama">
 <br>
   <a href="https://github.com/Eliz-ama">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliz-ama&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliz-ama&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliz-ama&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
  <br>
