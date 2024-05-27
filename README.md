@@ -8,6 +8,7 @@
 - :pushpin:Técnica em Secretariado
 - :pushpin:Línguas: Inglês e Espanhol
 - :pushpin:Fatecana
+-  :pushpin:Compasser
 </span>
 <br>
 </div>
