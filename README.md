@@ -31,7 +31,7 @@
   
 
 <br>
- Computador: Habilidades
+ Minhas Habilidades
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
