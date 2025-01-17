@@ -23,8 +23,8 @@ Tenho paixão por tecnologia, com foco em Análise de Dados e Business Intellige
 
 <div align="left">
   <a href="https://github.com/Eliz-ama">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eliz-ama&show_icons=false&theme=tokyonight&include_all_commits=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliz-ama&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Eliz-ama&show_icons=false&theme=tokyonight&include_all_commits=false&count_private=true"/>
+    <img width="43%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliz-ama&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 
