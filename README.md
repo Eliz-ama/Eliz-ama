@@ -47,7 +47,7 @@ Tenho paixão por tecnologia, com foco em Análise de Dados e Business Intellige
 ### 🏅 Certificações
 
 <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="_blank">
-  <img src="https://images.credly.com/size/200x200/images/f0d7b5b8-0e60-4b78-8c34-27b5bd954d0b/image.png" width="120" alt="AWS Certified Cloud Practitioner Badge">
+  <img src="https://github.com/Eliz-ama/Eliz-ama/blob/main/aws-certified-cloud-practitioner.png" width="120" alt="AWS Certified Cloud Practitioner Badge">
 </a>
 
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-ai-fundamentals" target="_blank">
