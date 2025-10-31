@@ -51,7 +51,7 @@ Tenho paixão por tecnologia, com foco em Análise de Dados e Business Intellige
 </a>
 
 <a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-ai-fundamentals" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Certified_Azure_AI_Fundamentals.svg" width="120" alt="Microsoft Certified Azure AI-900 Badge">
+  <img src="https://github.com/Eliz-ama/Eliz-ama/blob/main/azure.png" width="120" alt="Microsoft Certified Azure AI-900 Badge">
 </a>
 
 <br><br>
