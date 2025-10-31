@@ -30,7 +30,7 @@ Tenho paixão por tecnologia, com foco em Análise de Dados e Business Intellige
 
 <br>
 
-## Minhas Habilidades:          
+## 🧠 Minhas Habilidades          
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -43,8 +43,20 @@ Tenho paixão por tecnologia, com foco em Análise de Dados e Business Intellige
   <img align="center" alt="Power BI" height="50" width="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png">  
 </div>
 
-<br>
-<br>
+<br><br>
+### 🏅 Certificações
+
+<a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner" target="_blank">
+  <img src="https://images.credly.com/size/200x200/images/f0d7b5b8-0e60-4b78-8c34-27b5bd954d0b/image.png" width="120" alt="AWS Certified Cloud Practitioner Badge">
+</a>
+
+<a href="https://www.credly.com/org/microsoft-certification/badge/microsoft-certified-azure-ai-fundamentals" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Certified_Azure_AI_Fundamentals.svg" width="120" alt="Microsoft Certified Azure AI-900 Badge">
+</a>
+
+<br><br>
+
+## 🌎 Onde me encontrar
 
 <a href="https://instagram.com/elifungirrl" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25">
@@ -58,5 +70,3 @@ Tenho paixão por tecnologia, com foco em Análise de Dados e Business Intellige
 <a href="https://discord.com/channels/1048046174592040970/1048046175233785908" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25">
 </a>
-
-<div align="right"></div>
